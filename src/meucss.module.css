@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(174, 193, 235);
+}
+
+.formgroup{
+    margin-top: 70px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    -webkit-box-shadow: 4px 9px 22px 10px rgba(0,0,0,0.2); 
+    box-shadow: 4px 9px 22px 10px rgba(0,0,0,0.2);
+}
+
+body h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 55px;
+}
+
+.opcoes{
+    margin-right: 50px;
+    float: right;
+}
